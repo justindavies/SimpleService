@@ -8,7 +8,7 @@ kubectl apply -f deployment.yaml
 ```
 
 ```bash
-kubectl apply -f svc.yaml
+kubectl apply -f svc.yml
 ```
 
 ```bash
